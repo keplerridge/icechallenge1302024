@@ -1,0 +1,77 @@
+h1{
+    color: white;
+    font-family: Roboto;
+}
+
+h2{
+    color: white;
+}
+
+h1:hover{
+    color: black;
+}
+
+p {
+    color: white;
+    font-size:40px;
+}
+
+li{
+    color: black;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: Roboto;
+}
+
+body {
+    background-color: #FCA6C9;
+    text-align: center;
+}
+img{
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    text-align: left;
+    margin-left: 0px;
+    font-family: Roboto;
+    margin: 0 auto;
+    width: 400px;
+}
+
+ol {
+    list-style-position: inside;
+}
+.column-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.column-quote{
+    width: 330px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#quote {
+    font-size: 12px;;
+    line-height: 1.5;
+}
+
+#presname {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+h3{
+    font-size: 14px;
+    line-height: .5;
+    font-family: Roboto;
+}
+
+footer {
+    font-family: Roboto;
+}
